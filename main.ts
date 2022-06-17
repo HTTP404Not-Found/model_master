@@ -2,7 +2,7 @@ WiFiIoT.on_wifi_connect(function (IP_Address, Device_ID) {
     OLED.writeStringNewLine("WIFI ok")
 })
 WiFiIoT.initializeWifi(SerialPin.P16, SerialPin.P8)
-WiFiIoT.setWifi("", "")
+WiFiIoT.setWifi("SPSS_IOT", "iot@spss")
 OLED.init(128, 64)
 basic.forever(function () {
     House.readDHT11(DigitalPin.P0)
