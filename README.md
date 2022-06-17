@@ -8,7 +8,7 @@
 * 開啟 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * 按一下**新專案**
 * 按一下工具齒輪選單下的**擴充功能**
-* 搜索 **https://github.com/http404not-found/a** 並匯出
+* 搜索 **https://github.com/HTTP404Not-Found/model_master** 並匯出
 
 ## 編輯此專案 ![建立狀態徽章](https://github.com/http404not-found/a/workflows/MakeCode/badge.svg)
 
