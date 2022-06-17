@@ -16,7 +16,7 @@
 
 * 開啟 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * 按一下**匯入**，然後按一下**匯入 URL**
-* 貼上 **https://github.com/http404not-found/a** 並按一下匯入
+* 貼上 **https://github.com/HTTP404Not-Found/model_master** 並按一下匯入
 
 ## 預覽程式積木
 
